@@ -1,0 +1,4 @@
+- Historique chiffré via Argon2id + XChaCha20-Poly1305
+- Cookies non essentiels bloqués
+- Pas de télémétrie
+- Proxy local et DNS filtrant à brancher

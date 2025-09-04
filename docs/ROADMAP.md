@@ -1,0 +1,3 @@
+- Durcir anti-fingerprinting
+- Favoris et mots de passe chiffrés
+- Crawler robuste 24/7 avec files

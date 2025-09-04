@@ -1,0 +1,2 @@
+- Données locales par défaut
+- Opt-in explicite pour tout envoi réseau non nécessaire

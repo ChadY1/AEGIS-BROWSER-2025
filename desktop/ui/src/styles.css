@@ -1,0 +1,7 @@
+*{box-sizing:border-box} body{margin:0;font-family:system-ui,Arial}
+.wrap{display:flex;flex-direction:column;height:100vh;padding:12px;gap:12px}
+.grid{display:grid;grid-template-columns:1fr;gap:8px}
+.grid input{width:100%;padding:10px;border:1px solid #333;border-radius:8px;background:#111;color:#eee}
+.grid button{padding:10px;border:1px solid #333;border-radius:8px;background:#222;color:#eee;cursor:pointer}
+.web{flex:1;border:1px solid #333;border-radius:12px}
+header h1{margin:0;font-size:18px}
